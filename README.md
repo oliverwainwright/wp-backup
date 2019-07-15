@@ -16,7 +16,7 @@ So, I decided to use Amazon AWS S3 to store my data securely as follows:
 
 3. Create an IAM Policy and attach it to an IAM Group 
 
-####IAM Policy wp-db-backup-policy
+#### IAM Policy wp-db-backup-policy
 
 {
     "Version": "2012-10-17",
