@@ -2,6 +2,7 @@
 #
 # Date: 2019-07-14
 # Environment: KnownHost VPS
+# Author: oliverwainwright.com
 # Description: Backup Wordpress files and database to Amazon S3 Buckets
 # Prerequisites: AWS CLI tool, AWS Account, AWS S3 Bucket, AWS IAM Policy & Role for
 # account to access your S3 Bucket and nothing else
